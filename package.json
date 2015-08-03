@@ -1,0 +1,26 @@
+{
+  "name": "c0rk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node webserver.js"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "dependencies": {
+    "angular-ui-router": "^0.2.15",
+    "ejs": "^2.3.3",
+    "express": "^4.13.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-less": "^3.0.3",
+    "path": "^0.11.14",
+    "ui-router": "0.0.1",
+    "gulp-watch": "^4.3.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-angular-templatecache": "^1.7.0"
+  }
+}
